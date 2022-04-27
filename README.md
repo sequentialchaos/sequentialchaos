@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 </p>
 
+---
+
 ### &nbsp;Hobbies (non-technical):
 - 🧘 Yoga & 🛶 Paddleboard Yoga
 - :books: Reading
